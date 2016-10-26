@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{09F406A2-06DA-1C58-289F-E715CD4AF02C}") = "Vidyanusa Gardening", "Assembly-CSharp-firstpass.csproj", "{64C41BCC-D6AC-39E3-267C-F684D14A19D9}"
+EndProject
+Project("{09F406A2-06DA-1C58-289F-E715CD4AF02C}") = "Vidyanusa Gardening", "Assembly-CSharp.csproj", "{00291A2B-813F-9A31-42AE-C132F9CB3A73}"
+EndProject
+Project("{09F406A2-06DA-1C58-289F-E715CD4AF02C}") = "Vidyanusa Gardening", "Assembly-CSharp-Editor.csproj", "{650DF0B8-415A-954D-E2C7-F1720681D548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64C41BCC-D6AC-39E3-267C-F684D14A19D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C41BCC-D6AC-39E3-267C-F684D14A19D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C41BCC-D6AC-39E3-267C-F684D14A19D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C41BCC-D6AC-39E3-267C-F684D14A19D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00291A2B-813F-9A31-42AE-C132F9CB3A73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00291A2B-813F-9A31-42AE-C132F9CB3A73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00291A2B-813F-9A31-42AE-C132F9CB3A73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00291A2B-813F-9A31-42AE-C132F9CB3A73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{650DF0B8-415A-954D-E2C7-F1720681D548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{650DF0B8-415A-954D-E2C7-F1720681D548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{650DF0B8-415A-954D-E2C7-F1720681D548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{650DF0B8-415A-954D-E2C7-F1720681D548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
